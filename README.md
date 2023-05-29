@@ -13,7 +13,7 @@
 		- cosa sono le "guest addictions"
    
   
- ## installare ubuntu server 2
+ ## installare ubuntu server 22.04
       - https://linuxhint.com/install-ubuntu22-04-virtual-box/
       - https://www.itzgeek.com/how-tos/linux/ubuntu-how-tos/how-to-install-virtualbox-guest-additions-on-ubuntu-22-04.html?utm_content=cmp-true
 		- https://linux.how2shout.com/how-to-install-ubuntu-22-04-server-on-virtualbox/
